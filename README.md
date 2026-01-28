@@ -13,9 +13,7 @@
 ⋆ Learning all about **React**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -56,13 +54,17 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               58 mins             ███████████████████░░░░░░   77.66 % 
+Markdown                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -78,7 +80,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/01/2026 19:01:55 UTC
+ Last Updated on 28/01/2026 18:58:32 UTC
 <!--END_SECTION:waka-->
 
 </samp>
