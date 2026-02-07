@@ -56,15 +56,13 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      13 mins             ██████████████░░░░░░░░░░░   54.16 % 
-TypeScript               6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-Markdown                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -80,7 +78,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2026 19:11:30 UTC
+ Last Updated on 07/02/2026 18:58:10 UTC
 <!--END_SECTION:waka-->
 
 </samp>
