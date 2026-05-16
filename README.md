@@ -13,6 +13,8 @@
 ⋆ Learning all about **React**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2041%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -27,6 +29,42 @@
  > 
 > 🔑 25 Private Repository 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                296 commits         ██████████████░░░░░░░░░░░   54.41 % 
+🌆 Daytime                132 commits         ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+🌃 Evening                110 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   133 commits         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+Tuesday                  127 commits         ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Wednesday                76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Thursday                 77 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Friday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Saturday                 30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Sunday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -40,7 +78,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 19:58:07 UTC
+ Last Updated on 16/05/2026 19:38:05 UTC
 <!--END_SECTION:waka-->
 
 </samp>
