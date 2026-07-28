@@ -13,8 +13,6 @@
 ⋆ Learning all about **React**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2041%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -84,7 +82,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 20:02:03 UTC
+ Last Updated on 28/07/2026 19:58:13 UTC
 <!--END_SECTION:waka-->
 
 </samp>
